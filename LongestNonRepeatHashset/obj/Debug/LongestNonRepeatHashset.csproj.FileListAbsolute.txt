@@ -1,0 +1,6 @@
+C:\Users\usr\source\repos\LongestNonRepeatHashset\LongestNonRepeatHashset\bin\Debug\LongestNonRepeatHashset.exe.config
+C:\Users\usr\source\repos\LongestNonRepeatHashset\LongestNonRepeatHashset\bin\Debug\LongestNonRepeatHashset.exe
+C:\Users\usr\source\repos\LongestNonRepeatHashset\LongestNonRepeatHashset\bin\Debug\LongestNonRepeatHashset.pdb
+C:\Users\usr\source\repos\LongestNonRepeatHashset\LongestNonRepeatHashset\obj\Debug\LongestNonRepeatHashset.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\LongestNonRepeatHashset\LongestNonRepeatHashset\obj\Debug\LongestNonRepeatHashset.exe
+C:\Users\usr\source\repos\LongestNonRepeatHashset\LongestNonRepeatHashset\obj\Debug\LongestNonRepeatHashset.pdb
